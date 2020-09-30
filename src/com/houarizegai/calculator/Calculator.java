@@ -19,6 +19,10 @@ public class Calculator {
 private static final int MARGIN_I = 20;
     private static final int MARGIN_N = 60;
 
+private static final int MARGIN_mI = 20;
+    private static final int MARGIN_mN = 60;
+
+
     private JFrame window; // Main window
     private JTextField inText; // Input text
     private JButton btnC, btnBack, btnMod, btnDiv, btn7, btn8, btn9,
