@@ -21,6 +21,8 @@ private static final int MARGIN_I = 20;
 
 private static final int MARGIN_mI = 20;
     private static final int MARGIN_mN = 60;
+private static final int Akash1 = 20;
+    private static final int Akash2 = 60;
 
 
     private JFrame window; // Main window
