@@ -16,6 +16,8 @@ public class Calculator {
     private static final int BUTTON_HEIGHT = 70; // Button height
     private static final int MARGIN_X = 20;
     private static final int MARGIN_Y = 60;
+private static final int MARGIN_I = 20;
+    private static final int MARGIN_N = 60;
 
     private JFrame window; // Main window
     private JTextField inText; // Input text
